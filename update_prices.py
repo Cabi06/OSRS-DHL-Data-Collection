@@ -58,6 +58,11 @@ def generate_html():
                 {table_rows}
             </table>
         </div>
+        <p> 
+            <a href="prices.csv" download="DragonHunterLancePrices.csv">
+                <button> Download CSV </button>
+        </p>
+        <br><br><br>
         <p>Data updates daily via GitHub Actions. Data Collected from runescape wiki. </p>
     </body>
     </html>
