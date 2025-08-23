@@ -58,7 +58,7 @@ def generate_html():
                 {table_rows}
             </table>
         </div>
-        <p>Data updates daily via GitHub Actions.</p>
+        <p>Data updates daily via GitHub Actions. Data Collected from runescape wiki. </p>
     </body>
     </html>
     """
